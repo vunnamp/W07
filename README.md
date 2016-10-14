@@ -1,1 +1,2 @@
-# W07
+This Repo contains W07 assignment.
+Guest book
